@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  begin: 2019-08-05
+  end: 2019-08-05
+  car: one
+  total: 1
+
+two:
+  begin: 2019-08-05
+  end: 2019-08-05
+  car: two
+  total: 1
